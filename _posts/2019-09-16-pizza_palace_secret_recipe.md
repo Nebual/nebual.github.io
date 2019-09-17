@@ -1,7 +1,7 @@
-----
+---
 layout: post
 title: September Salutions: Periodic Pizza Post
-----
+---
 
 The first step to making pizza is engaging in the brutal form of combat
 called "Kneading Dough". Many an aspiring gastronomer has been felled
