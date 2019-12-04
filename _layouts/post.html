@@ -13,5 +13,18 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
+  {% assign tagPages = site.indexed_tags | map: "slug" %}
+  <div class="post-tags">
+    {% for post_tag in page.tags %}
+    <a class="post-tag" href="{%
+      if tagPages contains post_tag
+    %}/tags/{{ post_tag | slugify }}/{%
+      else
+    %}/tags/#{{ post_tag | slugify }}{%
+      endif
+    %}">{{ post_tag }}</a>
+    {% endfor %}
+  </div>
+
   {% include disqus.html %}
 </article>

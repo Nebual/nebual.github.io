@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<article class="tags">
+    <div class="tagged-posts-list">
+        <h1 id="{{ page.slug }}">{{ page.name }}</h1>
+        <ul>
+            {% for post in site.posts %}
+            {% if post.tags contains page.slug %}
+            <li>
+                <a class="display-block" href="{{ post.url }}">
+                    {{ post.title }}
+                    <small class="post-date">{{ post.date | date_to_string }}</small>
+                </a>
+            </li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+</article>

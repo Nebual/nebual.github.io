@@ -1,5 +1,4 @@
 ---
-layout: post
 title: September Salutions - Periodic Pizza Post
 ---
 

@@ -29,6 +29,28 @@ url: https://gm.nebtown.info
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+collections:
+  indexed_tags:
+    output: true
+    permalink: /tags/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: indexed_tags
+    values:
+      layout: tag_index
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
