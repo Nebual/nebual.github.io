@@ -11,7 +11,7 @@ with the exception of our Tabaxi friend, Smoking Mirror,
 who in fear immediately ran up the alley walls like a cat up a tree.
 
 
-Four additional bandits enter the alley from the in a devastating pincer attack.
+Four additional bandits enter the alley in a devastating pincer attack.
 AJ immediately attempts to grease them, but they gracefully piroet out of danger.
 His allies unfortunately are less lucky, and the grease trips an attempt by
 Robbie to tackle a bandit, as well as ruining the charging Paladin's
