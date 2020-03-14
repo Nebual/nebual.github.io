@@ -92,15 +92,10 @@ lucky adventurer shoppers who've earned the favour of Mueller.
 
 ... to be continued...
 
-{::comment}
-conclusions:
-Jeff + Serendipity disappear into a side adventure
-found a patron to fund the dojo
-{:/comment}
-
-
 > -- From the Memoirs of Flint Stone  
 > Archwizard of the definitely-real Invention School/Jungle Dojo
+
+#### Next Chapter: [Capital City News](/Capital-City-News/)
 
 ## Dramatis Personae
 
