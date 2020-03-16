@@ -42,3 +42,4 @@ house most of the survivors.
 
 
 #### Previous Chapter: [Jungle City Heist](/Jungle-City-Heist/)
+#### Next Chapter: [Claiming Greenstone](/Claiming-Greenstone/)

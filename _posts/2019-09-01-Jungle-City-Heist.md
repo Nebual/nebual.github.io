@@ -118,7 +118,7 @@ lucky adventurer shoppers who've earned the favour of Mueller.
 * S4 In Search of The Elephant God
 * S5 Skeleton Ball
 * S6 Malick's Legal Problems
-* S7 Finding the Wizard Tower
+* S7 Journey to the Wizard Tower
 * S8 Romp through the Steam Plane
 * S9 In the City of Doors
 * S10 The many layers of Heck (& the Leather Bedsheets)
