@@ -45,6 +45,8 @@ elsewhere in their QUEST FOR THE STONE OF GOLARRR
 > -- Teal Steel,  
 > Semi-Pro Documancer
 
+[-> Session 2: Sewer Slime Slog](/Dragon-Heist-2-Sewer-Slime-Slog/)
+
 ### Cast
 * B - Teal Steel, Fellow of the Order of the Unicorn
 * N - Wilpher, a wimpy street urchin who communes with rats
