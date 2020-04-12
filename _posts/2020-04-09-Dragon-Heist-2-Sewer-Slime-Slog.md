@@ -4,8 +4,6 @@ category: DragonHeist
 tags: [dragonheist, rpg]
 ---
 
-[<- Session 1: Trolls Do Not Work That Way](/Dragon-Heist-1-Trolls-Do-Not-Work-That-Way/)
-
 Prince Renear explained his father was kicked out of office, having embezzeled a huge fortune, and then proceeded to hide his stash and wipe his own memory to prevent it falling into... the right hands? The _Stone of Golarrrrr_ is believed to hold the key to his memories and thus oodles of gold dragons.
 
 > Lettttts pound that pavement -- Wilpher
@@ -26,6 +24,8 @@ A harrowing duel later, we opt for a hasty retreat to the daylight, through a se
 
 > -- Teal Steel,  
 > Semi-Pro Documancer
+
+[<- Session 1: Trolls Do Not Work That Way](/Dragon-Heist-1-Trolls-Do-Not-Work-That-Way/)
 
 ### Cast
 * B - Teal Steel, Fellow of the Order of the Unicorn (The Knights of the Unicorn are chivalric adventurers who follow romantic ideals: life is to be relished and lived with laughter, quests should be taken on a dare, impossible dreams should be pursued for the sheer wonder of their completion)
