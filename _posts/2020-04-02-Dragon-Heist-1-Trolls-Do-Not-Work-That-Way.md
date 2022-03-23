@@ -4,7 +4,7 @@ category: DragonHeist
 tags: [dragonheist, rpg]
 ---
 
-Sitting around the vertically-challenged-folks table at the Yawning Portal
+Sitting around the vertically-challenged-folks table at the **Yawning Portal**
 bar & grill, a motley assortment of halflings and dwarves discuss the city's
 warnings of a potential upcoming quarantine. Several unsavoury types enter,
 and are teaming up against a half-orc they have some quarrel with. We begin
@@ -52,3 +52,6 @@ elsewhere in their QUEST FOR THE STONE OF GOLARRR
 * N - Wilpher, a wimpy street urchin who communes with rats
 * T - Milo Tealeaf, boy-wizard
 * D - Drot, Kobald ranger
+
+#### Guest Starring
+* Xolobe, Master Purple Merchant
