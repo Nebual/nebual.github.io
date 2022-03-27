@@ -25,6 +25,7 @@ We entered in and saw a group of five folks equipped with their own pet winter w
 > Zombie Cleric of the Moon (and non-evil lycanthropes)
 
 #### Previous Chapter: [The Cave of Lying Shadows](/The-Cave-of-Lying-Shadows/)
+#### Next Chapter: [Into The Amber](/Into-the-Amber/)
 
 ## Dramatis Personae
 
