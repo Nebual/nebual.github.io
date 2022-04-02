@@ -62,6 +62,7 @@ Orrrs asks about the vestiges and Exethanter points out some particulars of note
 > and Sarandiel, keeper of song and epochs
 
 #### Previous Chapter: [Dwayne The Roc](/Dwayne-The-Roc/)
+#### Next Chapter: [Fighting Shadows](/Fighting-Shadows/)
 
 ## Dramatis Personae
 
