@@ -29,7 +29,7 @@ The boy, now feeling better, explained his people were out hunting for their vil
 > -- Recompiled by Darkwalker Fen von Stoker  
 > Zombie Cleric of the Moon (and non-evil lycanthropes)
 
-#### Previous Chapter: Strahd claims Van Richten
+#### Previous Chapter: [Strahd claims Van Richten](/Strahd-Claims-Van-Richten)
 #### Next Chapter: [Facing Orrrs's Future](/Facing-Orrrs-Future/)
 
 ## Dramatis Personae

@@ -35,7 +35,7 @@ The clearing's shadows start to quiver and shift, and from out of the gloom they
 
 > Vampiric touch would require the scared wizard to actually approach the dragon... yet chill touch is not a touch attack - and doesn't even do cold damage!
 
-Returning the dragon's skull to the Lodge's resting place, the Lodge's tower bursts into bright light, as a beacon burning across all of Barovia, imbuing those who stand against Strahd with holy energy _(The party gets +1 AC and +1 to all saving throws while in Barovia)_. The Lodge's ghostly knights are finally at peace. Looking through the temple, we find the greatsword belonging to the Captain of the knights, but Misha gets his grubby little hands on it, much to Sara's disgust.
+Returning the dragon's skull to the Lodge's resting place, the Lodge's tower bursts into bright light, as a beacon burning across all of Barovia, imbuing those who stand against Strahd with holy energy _(The party gets +1 AC and +1 to all saving throws while in Barovia)_. The Lodge's ghostly knights are finally at peace. Looking through the temple, we find the greatsword belonging to the Captain of the knights, but Misha gets his grubby little normal hands on it, much to Sara's disgust.
 
 
 > -- Compiled by Darkwalker Fen von Stoker  

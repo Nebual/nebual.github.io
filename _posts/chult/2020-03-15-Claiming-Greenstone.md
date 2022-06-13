@@ -46,6 +46,7 @@ dispatch him, the victory was concerningly lukewarm.
 > Co-God-Emperor of the town of Greenstone
 
 #### Previous Chapter: [Capital City News](/Capital-City-News/)
+#### Next Chapter: [Greenstone Town Directory](/Town-Directory/)
 
 ## Dramatis Personae
 
