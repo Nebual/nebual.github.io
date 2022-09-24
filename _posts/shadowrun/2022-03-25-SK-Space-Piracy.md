@@ -75,8 +75,8 @@ Just as we're _hypothetically_ pondering going back to pick up parts from that e
 
 > -- Transcribed by Chester and Nightshade
 
-
-#### Previous Chapter: Working with the Enemy
+#### Previous Chapter: [Working with the Enemy](/SK-Working-with-the-Enemy/)
+#### Next Chapter: [Berlin](/Berlin/)
 
 ## Dramatis Personae
 

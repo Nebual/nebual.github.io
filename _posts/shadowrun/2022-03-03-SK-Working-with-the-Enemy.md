@@ -32,7 +32,7 @@ The Race
 
 > -- Transcribed by Chester
 
-#### Next Chapter: [Space Piracy](/Space-Piracy/)
+#### Next Chapter: [Space Piracy](/SK-Space-Piracy/)
 
 ## Dramatis Personae
 
