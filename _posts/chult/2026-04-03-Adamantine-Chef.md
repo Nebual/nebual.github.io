@@ -1,5 +1,5 @@
 ---
-title: Greenstone S26 - Adamantine Chef
+title: Greenstone S25 - Adamantine Chef
 category: Chult
 tags: [chult, rpg]
 ---
