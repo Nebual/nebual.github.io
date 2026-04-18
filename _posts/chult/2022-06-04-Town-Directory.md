@@ -18,7 +18,7 @@ D: The Half-Elf Formerly Known as _Crickets_, henceforth: Post Macrowne, has bee
 
 N: Ragu, the Travelling lizard chef artificer, having served the mighty lizard empire for over 50 years, but since their empires have, uhh, fallen, was looking to retire in the woods when he finds the fleshy town of Greenstone. Accompanied by his truffle pig, he's opened a food truck serving the school.
 
-M: Masura's Warlock patron has been increasingly demanding tributes, now seeking a royal tiara of Maev which is famed to kill anyone who wears it but the rightful heirs, and protect those heirs from death.
+M: Misora's Warlock patron has been increasingly demanding tributes, now seeking a royal tiara of Maev which is famed to kill anyone who wears it but the rightful heirs, and protect those heirs from death.
 
 R: Drake (not the rapper; dragonborn) the bounty hunter, was working out of the capital until... complicated legal matters forced them _off continent_ while the heat dies off, demanded the Flint corporation put him up in a room - and Flint couldn't remember enough to disagree.
 
