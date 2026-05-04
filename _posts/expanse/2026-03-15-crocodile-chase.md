@@ -21,4 +21,4 @@ We decided, after re-analyzing the trajectory of the Crocodile pre-attack, to co
 * R - Sam Bankman, jacked quartermaster turned "captain"
 * M - Eva, "spy" but not the hacking or sneaking type
 * M - Roger Roger, Military-weeb
-* S - Lana, thin wrenchmaster (but sleeping this one out in Medbay)
+* S - Lani, thin wrenchmaster (but sleeping this one out in Medbay)

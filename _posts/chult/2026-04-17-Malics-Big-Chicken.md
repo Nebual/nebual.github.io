@@ -23,6 +23,7 @@ The trail is not hard to follow. It appears the survivors(?) were dragged throug
 
 > Misora claims to be an Aasimar because she was touched inappropriately by an angel as a child. Presumably she was half-dwarf half-tiefling before.  
 > New animal detected! Ken turns into a.............. Chultian Humming Bird (its like, crow sized)
+> "As a bonus action, I flaming finger myself."
 
 Giant Humming-Ken scouts us a primo route, allowing us to avoid the skeleton-raptor-jockeys and other nonsense and enter the town ruins proper, showing a necro-priest presiding over a grand pot, with undead shuffling trays of _meat_ implements into it. The scene is eerily familiar to one we once saw back in Heck, but Heck stuff ain't supposed to be up here, even if its Chult.
 
