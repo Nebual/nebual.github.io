@@ -15,6 +15,8 @@ Just as they were coming aboard, 2 new ECorp ships show up and immediately launc
 
 We decided, after re-analyzing the trajectory of the Crocodile pre-attack, to continue persuing its course all the way to Titan, moon of Saturn, to a small refuelling station registered to ECorp. The Martians had been growing increasingly impatient at our roundabout 'course home', but we told them it was essential to avoid persuit, which was half-true, but ultimately hard to sell once we proceeded to dock at the ECorp station. It hadn't responded on any comms, and as we boarded we saw why: corpses, shot with conventional bullets ("so that's a relief at least"). Upon reaching the station's control room, knocking over a soda can alerted what appears to be an entire flock of shambling folk, with brown ichor dripping from their eyes...
 
+#### Next Chapter: [Shattering the Shambling Station](/shattering-the-shambling-station/)
+
 ## Dramatis Personae
 
 * B - Froon Blagmare, Belter-weeb, intrepid pilot, and definitely "captain"

@@ -85,6 +85,8 @@ Prizes: a shiny red ruby chicken statue, an Alchemy Jug, a ring of extra healing
 
 #### Previous Chapter: [Vialchasing](/Vialchasing/)
 
+#### Next Chapter: [Malic's Big Chicken](/Malics-Big-Chicken/)
+
 ## Dramatis Personae
 
 - B - Flint Stone, amnesiac wizard, Wizard/Monk School Headmaster and Head Mayor of Greenstone

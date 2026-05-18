@@ -25,6 +25,10 @@ The elevator doors open to a horde between us and our ship. The crew bravely cha
 
 Now the crew knows the full Crocodile flight path, and knows things went wrong at Phoebe... but also has a sick Lani, a mute Crocodile crewmember, and some increasingly angry marines. The UN can wait a little for a complete report. Blowing the station likely severs the Corp's ability to track the Crocodile further anyway.
 
+#### Previous Chapter: [Crocodile Chase](/crocodile-chase/)
+
+#### Next Chapter: [Phoebe Station](/phoebe-station/)
+
 ## Dramatis Personae
 
 * B - Froon Blagmare, Belter-weeb, intrepid pilot, and definitely "captain"

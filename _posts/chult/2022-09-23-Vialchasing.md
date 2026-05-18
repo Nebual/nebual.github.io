@@ -38,9 +38,9 @@ Thus Ragu got to harvest Triceracorn prosciutto, and Flint got two unicorn horns
 
 The Minotaur then decided to join Greenstone, as a gardener.
 
-
 #### Previous Chapter: [Brownwater](/Brownwater/)
 
+#### Next Chapter: [Adamantine Chef](/Adamantine-Chef/)
 
 ## Dramatis Personae
 
