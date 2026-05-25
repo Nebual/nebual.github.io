@@ -12,6 +12,11 @@ With our briefest of replenishments complete, we fly hard to Phoebe, with a UN b
 
 Its a similar situation to the previous E-corp station: a few dead infected, but no movement. Eva shoots a few holes into the walls to vent the atmosphere, which triggers a few bulkheads we have to then slowly cut through, but throughout our travels we don't encounter anything alive. Recalling that the station also had power issues, we check out the base's utility room, and its full of some plant-like growth of blue pulsating phosphorescence -- we very carefully take a sample.
 
+> _vents the station_
+> Lani: Oh my god we didn't think to check if there were any survivors first
+> Froon: Oh no, I thought about it
+> Bankman wouldn't care
+
 Our final stop is Sample Storage, so we cut outside and start cutting into it, when we notice a small shuttle parked beside our ship! We fire ship guns at it, and remote fly the ship close to us, but don't see any intruders on ship cameras. The comms interference seems to be getting worse, we're probably being jammed, so Froon bravely ~~flees~~ boards while the others find their sample. With the interference, the party is struggling to coordinate, and half the party notices footsteps past the sample storage's bulkhead door. A loud boom flings Bankman across the sample room into a wall of blue growth, and Lani up and out of the base's roof. Out of the smoke emerges two past problems: a now-one-armed Power Armor corpo with a vengence, delayed by a blue armored _thing_ freed by the boom.
 
 Over direct laser comms, Roger helps Froon aim the ship's guns, and multiple PDC volleys eventually wound the suit and cut a bigger exit hole in the ceiling for Bankman to climb out.

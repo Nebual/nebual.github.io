@@ -33,7 +33,15 @@ Giant Humming-Ken scouts us a primo route, allowing us to avoid the skeleton-rap
 > "COW!" - the verbal component of the 4th level spell Flint flung at the necro-priest (to great effect!)  
 > "In your experience, is there any way to turn off the skeletons?" "Well, they're tossing meat into the pot, so maybe we throw the opposite of meat?" "Bones?" "Carrots? Cabbages?"  
 
-The eyes wink out of the collosal floating t-rex skull.
+With a wave of magic, the eyes wink out of the collosal floating t-rex skull, but its still rather angry.
+
+--
+
+The party's attention is split across the battle: Trent's smashing skeletal raptors left and right. Misora, entirely out of her element, tries to smash the prisoner cage locks with... a rock, but even a bone-lock can stand up to pitiful warlock 'strength'. Flint arcaeno-casts _knock_ on another lock, but flubs the pronunciation and out comes a large _boom_ of a _Shatter_, which he only barely redirects away from blowing up the catfolk inside. The necro-priest _Moos_. Misora spends another 2 turns bludgeoning the same lock with a rock, oblivious to the battlefield around her and of better magical alternatives. When Trent's giant dental receptionist _Gertrude_ appears, the t-rex skull shatters into the cauldron.
+
+> I mean, I wasn’t expecting cow bondage, but uh, that’s some strong hempen rope.
+
+The rescued local catfolk and students appreciate the save, and share what little they know of Malic sightings in the area. The cats have a nearby reclusive township, which Greenstone can likely trade with.
 
 > -- From the Memoirs of Flint Stone  
 > Archwizard of the definitely-real Invention School/Jungle Dojo
