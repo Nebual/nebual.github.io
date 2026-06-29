@@ -23,7 +23,11 @@ Over direct laser comms, Roger helps Froon aim the ship's guns, and multiple PDC
 
 > Can we get ejector seats for the shame basement?
 
+With the crew re-aboard we floor it, as a nuclear missile hits the station. Above us, the UN Battleship suffers heavy damage and careens into the moon.
+
 #### Previous Chapter: [Shattering the Shambling Station](/shattering-the-shambling-station/)
+
+#### Next Chapter: [Bling my Ship](/bling-my-ship/)
 
 ## Dramatis Personae
 
